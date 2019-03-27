@@ -28,6 +28,8 @@ For more info on API keys in Alma: https://developers.exlibrisgroup.com/alma/api
 
 ## Create a Set
 You will need to create an itemized physical items set in Alma and have the "set id" on hand for the workshop (see below).
+
+![Alt text](https://github.com/MrJeremyHobbs/ELUNA-2019-Dev-Days-Alma-Course/blob/master/images/screenshot.png?raw=true "Title")
  
 ## BYOB (Bring Your Own Barcodes)
 You will need at least 10 barcode numbers to actual items in your collection that you can place in the program and add to the set you created. Make sure these are items that have active records in the system (not old withdrawn books). 
