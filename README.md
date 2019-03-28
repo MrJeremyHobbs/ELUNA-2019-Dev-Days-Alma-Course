@@ -25,8 +25,8 @@ For some other options and an explanation of why using a plain-text editor is im
 ## API Key
 You will need to create an API key for your institution that has the following permissions:
 
-BIBS (PRODUCTION read)
-CONFIGURATION (PRODUCTION read/write)
+-BIBS (PRODUCTION read)
+-CONFIGURATION (PRODUCTION read/write)
 
 Keep a copy of this key in a secure location and have it ready for the workshop.
 
