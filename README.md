@@ -10,7 +10,7 @@ You will also need to install the following modules: requests and xmltodict.
 
 You can install these using pip by typing “pip3 install requests” and “pip3 install xmltodict” into your command line.
 
-You can test your installation by running this file: https://github.com/MrJeremyHobbs/ELUNA-2019-Dev-Days-Alma-Course/blob/master/0%20-%20setup%20and%20tests/TEST.py
+You can test your installation by choosing your OS and running the TEST.py file: https://github.com/MrJeremyHobbs/ELUNA-2019-Dev-Days-Alma-Course/tree/master/setup%20and%20tests
 
 Easy installation guide: https://tutorial.djangogirls.org/en/python_installation/
 More technical guide: https://docs.python-guide.org/starting/installation/
