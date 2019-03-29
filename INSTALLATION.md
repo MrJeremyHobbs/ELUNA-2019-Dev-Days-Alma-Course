@@ -1,4 +1,4 @@
-###Installation Instructions (for Windows Users)
+### Installation Instructions (for Windows Users)
 -Download “Windows x86 executable installer”
 -Load installer and click “Add Python 3.6 to PATH” from main screen
 
