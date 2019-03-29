@@ -1,5 +1,5 @@
 ### Installation Instructions (for Windows Users)
-1. Download “Windows x86 executable installer”
+1. Download “Windows x86 executable installer” from https://www.python.org/downloads/release/python-362/
 2. Load installer and click “Add Python 3.6 to PATH” from main screen
 
 ![Alt text](https://github.com/MrJeremyHobbs/ELUNA-2019-Dev-Days-Alma-Course/blob/master/images/windows_1.png?raw=true "Screenshot")
@@ -12,4 +12,4 @@
 ![Alt text](https://github.com/MrJeremyHobbs/ELUNA-2019-Dev-Days-Alma-Course/blob/master/images/windows_2.png?raw=true "Screenshot")
 
 7. Click "Install"
-8. Once installation is finished, you can test that all is well by typing “python –version” into the command prompt. If all is well, you’ll see the version of python that has been installed.
+8. Once installation is finished, you can test that all is well by typing “python –version” into the command prompt. You should see a short statment that you have Python version 3.6.2 installed.
