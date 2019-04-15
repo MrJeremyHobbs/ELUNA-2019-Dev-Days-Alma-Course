@@ -72,5 +72,6 @@ You don’t have to have the actual books in hand, just the numbers in a text fi
 Nothing will happen to these records except being added to a set in Alma, so no need to worry about harming any data.
 
 ### Last Thoughts
-If you need any help with these steps, please reach out to Jeremy Hobbs (jthobbs@calpoly.edu) or the other members of this workshop team.
-Though there will be people on hand to help with technical issues should they arise, our goal is to have all these ducks in a row so we can get straight to coding.
+If you need any help with these steps, please reach out to workshop leader Jeremy Hobbs (jthobbs@calpoly.edu) or the workshop helpers Christina Hennessey (Christina.hennessey@csun.edu) or Margaret Briand Wolfe (margaret.briandwolfe@bc.edu).
+
+For general questions about Developers Day+, please contact the chair of the planning team, Nathan Mealey (nmealey@wesleyan.edu).
