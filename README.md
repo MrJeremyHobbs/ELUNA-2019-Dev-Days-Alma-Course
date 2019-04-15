@@ -75,3 +75,9 @@ Nothing will happen to these records except being added to a set in Alma, so no 
 If you need any help with these steps, please reach out to workshop leader Jeremy Hobbs (jthobbs@calpoly.edu) or the workshop helpers Christina Hennessey (Christina.hennessey@csun.edu) or Margaret Briand Wolfe (margaret.briandwolfe@bc.edu).
 
 For general questions about Developers Day+, please contact the chair of the planning team, Nathan Mealey (nmealey@wesleyan.edu).
+
+Though there will be people on hand to help with technical issues should they arise, our goal is to have all these ducks in a row so we can get straight to coding. 
+
+__Please set aside time to ensure that these setup requirements are in place prior to Developers Day+.__
+
+See you in Atlanta!
