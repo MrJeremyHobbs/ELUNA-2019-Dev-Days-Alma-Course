@@ -1,4 +1,4 @@
-# ELUNA 2019 Dev Days+ Alma Course
+# ELUNA 2019 Developers Day+ Alma Workshop
 
 ## Setup and Requirements
 ### Python
