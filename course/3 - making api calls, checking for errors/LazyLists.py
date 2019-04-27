@@ -19,6 +19,9 @@ def main(*args):
     barcode = gui.get_entry_field_data()
     gui.clear_entry_field()
 	
+	
+	
+#r = requests.get(f"https://api-na.hosted.exlibrisgroup.com/almaws/v1/items?item_barcode={barcode}&apikey={apikey}")	
     
 # functions ###################################################################
     

@@ -42,6 +42,11 @@ def main(*args):
     item_pid = item_dict['item']['item_data']['pid']
 	
 	
+	
+#r = post_xml(url=f"https://api-na.hosted.exlibrisgroup.com/almaws/v1/conf/sets/{set_id}?op=add_members&apikey={apikey}", 
+#             xml=set_xml)
+	
+	
 # functions ###################################################################
 def check_errors(r):
     errors_dict = {}
@@ -82,6 +87,7 @@ f"""<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </set>"""
 
     return set_xml
+	
         
 # gui #########################################################################
 class gui:
